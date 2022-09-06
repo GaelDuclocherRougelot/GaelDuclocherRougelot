@@ -9,8 +9,7 @@
 
 ## 🛠 Tech Stack  
 
-- 🌐⚛ JavaScript | ReactJS 
-- 🔙🔚 Node.js | Express 
-- 🗄 Posgresql | Sequelize
-- 🔨 Git | NPM / YARN
+- 🌐⚛ JavaScript | ReactJS | VueJS
+- 🔙🔚 Node.js | Express
+- 🔨 Windows | Git | NPM 
 - 🎨 Photoshop | Adobe XD
