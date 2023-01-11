@@ -11,7 +11,7 @@ I like to share and learn new things every day 😉
 ## About me 
 
 - 👀 I’m interested in: Programing, Tech, Web3, Crypto, Music, Video-games..
-- 🌱 I’m currently learning: MongoDB, GraphQL, BDDs, APIrest, Advanced SQL.
+- 🌱 I’m currently learning: MongoDB, React, Redux.
 - 💞️ I’m looking to collaborate on web projects to develop my skills and learn to work in a team !
 - 📫 How to reach me => gaelduclocher.rougelot@gmail.com
 
