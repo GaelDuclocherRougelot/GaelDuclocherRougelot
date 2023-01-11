@@ -1,6 +1,6 @@
 # Hey there ! I’m Gaël.
 
-Full stack JavaScript developer specialized in ReactJS / NodeJS.😎
+Full stack JavaScript developer specialized in NodeJS.😎
 
 Passionate about computer science since my youngest age, I dedicated the last two years to learning code and its universe with the aim of making a reconversion.
 
@@ -20,8 +20,6 @@ I like to share and learn new things every day 😉
 <p> 
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="express" src="https://img.shields.io/badge/-Express-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="vue" src="https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=white" />  
   <img alt="Postgresql" src="https://img.shields.io/badge/-PostgreSQL-30628a?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
