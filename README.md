@@ -8,7 +8,7 @@ From simple HTML to the latest Technologies, I was able to deepen my knowledge t
 
 I like to share and learn new things every day 😉
 
-## 🐱‍👓 About me 
+## About me 
 
 - 👀 I’m interested in: Programing, Tech, Web3, Crypto, Music, Video-games..
 - 🌱 I’m currently learning: MongoDB, GraphQL, BDDs, APIrest, Advanced SQL.
