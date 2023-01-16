@@ -2,11 +2,8 @@
 
 Full stack JavaScript developer specialized in NodeJS.😎
 
-Passionate about computer science since my youngest age, I dedicated the last two years to learning code and its universe with the aim of making a reconversion.
-
-From simple HTML to the latest Technologies, I was able to deepen my knowledge to get the best out of it.
-
-I like to share and learn new things every day 😉
+I have dedicated the last two years to learning coding and its universe in my free time in order to consider a reconversion. Subsequently, during my 5 month training at O'Clock school, I was able to deepen my front & back knowledge. 
+I love sharing and learning new things every day!
 
 ## About me 
 
@@ -26,7 +23,3 @@ I like to share and learn new things every day 😉
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaelDuclocherRougelot&hide=vue&theme=ocean_dark)](https://github.com/GaelDuclocherRougelot/github-readme-stats)
-![](https://github-readme-stats.vercel.app/api?username=GaelDuclocherRougelot&show_icons=true&theme=ocean_dark&count_private=true)
