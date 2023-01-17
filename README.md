@@ -1,6 +1,6 @@
 # Hey there ! I’m Gaël.
 
-Full stack JavaScript developer specialized in NodeJS.😎
+Web developer specialized in NodeJS.😎
 
 I have dedicated the last two years to learning coding and its universe in my free time in order to consider a reconversion. Subsequently, during my 5 month training at O'Clock school, I was able to deepen my front & back knowledge. 
 I love sharing and learning new things every day!
