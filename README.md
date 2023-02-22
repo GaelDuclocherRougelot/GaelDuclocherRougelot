@@ -2,10 +2,11 @@
 
 Web developer specialized in NodeJS.😎
 
-I have dedicated the last two years to learning coding and its universe in my free time in order to consider a reconversion. Subsequently, during my 5 month training at O'Clock school, I was able to deepen my front & back knowledge. 
+I have dedicated the last two years to learning coding and its universe in my free time in order to consider a reconversion. Subsequently, during my 5 month training at O'Clock school, I was able to deepen my front & back knowledge.
+I got my professional title: Développeur web & web mobile(RNCP5) on January 2023 !
 I love sharing and learning new things every day!
 
-## About me 
+## About me
 
 - 👀 I’m interested in: Programing, Tech, Web3, Crypto, Music, Video-games..
 - 🌱 I’m currently learning: MongoDB, React, Redux.
