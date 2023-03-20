@@ -2,25 +2,22 @@
 
 Web developer specialized in NodeJS.😎
 
-I have dedicated the last two years to learning coding and its universe in my free time in order to consider a reconversion. Subsequently, during my 5 month training at O'Clock school, I was able to deepen my front & back knowledge.
-I got my professional title: Développeur web & web mobile(RNCP5) on January 2023 !
+I have dedicated the last two years to learning coding and its universe to consider a reconversion. Subsequently, during my 5 month training at O'Clock school, I was able to deepen my front & back knowledge.
+I got my professional title: Développeur web & web mobile(BAC+2) on January 2023 !
 I love sharing and learning new things every day!
-
-## About me
-
-- 👀 I’m interested in: Programing, Tech, Web3, Crypto, Music, Video-games..
-- 🌱 I’m currently learning: MongoDB, React, Redux.
-- 💞️ I’m looking to collaborate on web projects to develop my skills and learn to work in a team !
-- 📫 How to reach me => gaelduclocher.rougelot@gmail.com
 
 ## 🛠 Tech Stack  
 
-<p> 
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="express" src="https://img.shields.io/badge/-Express-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="vue" src="https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=white" />  
-  <img alt="Postgresql" src="https://img.shields.io/badge/-PostgreSQL-30628a?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+<p>   
+   <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+   <img alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+   <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+   <img alt="react router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+   <img alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
+   <img alt="aws S3" src="https://img.shields.io/badge/AWS S3-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+   <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+   <img alt="Mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+   <img alt="Tailwind css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+   <img alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </p>
