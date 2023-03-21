@@ -1,7 +1,5 @@
 # Hey there ! I’m Gaël.
 
-Web developer specialized in NodeJS.😎
-
 I have dedicated the last two years to learning coding and its universe to consider a reconversion. Subsequently, during my 5 month training at O'Clock school, I was able to deepen my front & back knowledge.
 I got my professional title: Développeur web & web mobile(BAC+2) on January 2023 !
 I love sharing and learning new things every day!
