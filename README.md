@@ -1,4 +1,4 @@
-# Hey ! je suis Gaël.
+# Hey ! je suis Gaël,
 
 Passionné d'informatique depuis une dizaines d'années, je me
 suis spécialisé dans le développement web pour vivre de ma
