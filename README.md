@@ -18,5 +18,3 @@ passion.
    <img alt="Tailwind css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
    <img alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
-![Gaël GitHub stats](https://github-readme-stats.vercel.app/api?username=GaelDuclocherRougelot&show_icons=true&theme=tokyonight) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaelDuclocherRougelot&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight)](https://github.com/GaelDuclocherRougelot/github-readme-stats)
