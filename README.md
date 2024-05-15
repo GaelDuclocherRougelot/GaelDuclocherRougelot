@@ -1,8 +1,6 @@
 # Hey ! I'm Gaël,
 
-Passionate about computers for ten years, I
-am specialized in web development to live from my
-passion.
+Full stack Developer specialized on React.js / Next.js
 
 ## 🛠 Tech Stack  
 
