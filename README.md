@@ -1,8 +1,8 @@
 # Hey ! I'm Gaël,
 
-Full stack Developer specialized on React.js / Next.js
+Full-stack Developer specialized on React.js / Next.js
 
-## 🛠 Tech Stack  
+## 🛠 I like to work with
 
 <ul>   
    <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
